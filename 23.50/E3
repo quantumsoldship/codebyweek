@@ -1,0 +1,23 @@
+Welcome to part 3!
+In the last puzzle, you discovered that Santa’s pipe defrost machine said that
+it required power. How do you give it power? You flip the power switch, of course.
+It’s disapointingly not that easy, however.
+
+a) The switch requires a password.
+b) You don’t know the password.
+c) We have a problem
+
+Fortunately, you don’t have to trod all the way back to Santa’s house, becuase an elf left an encrypted file in the building’s mainframe.
+
+The file looks like this:
+[The password is: {
+70617373776F726431323373616E74616973636F6F6C3536373877686F6477656170707265636961746553616E746121
+}
+
+It looks like this password is in hexadecimal!
+You’ll need to decode it somehow.
+
+Expected result:
+The decoded string
+
+Good luck!
